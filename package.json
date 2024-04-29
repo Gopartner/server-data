@@ -1,0 +1,27 @@
+{
+  "name": "server-data",
+  "version": "1.0.0",
+  "description": "belajar rest api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopartner/server-data.git"
+  },
+  "keywords": [
+    "Rest-Api",
+    "javascript"
+  ],
+  "author": "yudibilly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gopartner/server-data/issues"
+  },
+  "homepage": "https://github.com/Gopartner/server-data#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
